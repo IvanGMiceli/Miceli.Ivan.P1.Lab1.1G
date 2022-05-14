@@ -1,0 +1,48 @@
+# depslib dependency file v1.0
+1652487912 source:c:\users\ivan\desktop\parcial primer laboratorio 1\primer parcial laboratorio 1 miceli ivan\mascotas.c
+	<stdio.h>
+	<stdlib.h>
+	"mascotas.h"
+
+1652487902 c:\users\ivan\desktop\parcial primer laboratorio 1\primer parcial laboratorio 1 miceli ivan\mascotas.h
+	"tipo.h"
+	"color.h"
+
+1652489786 source:c:\users\ivan\desktop\parcial primer laboratorio 1\primer parcial laboratorio 1 miceli ivan\main.c
+	<stdio.h>
+	<stdlib.h>
+	"mascotas.h"
+	"fecha.h"
+	"tipo.h"
+	"color.h"
+	"servicio.h"
+
+1652480505 c:\users\ivan\desktop\parcial primer laboratorio 1\primer parcial laboratorio 1 miceli ivan\fecha.h
+
+1652480552 source:c:\users\ivan\desktop\parcial primer laboratorio 1\primer parcial laboratorio 1 miceli ivan\fecha.c
+	"fecha.h"
+
+1652485136 source:c:\users\ivan\desktop\parcial primer laboratorio 1\primer parcial laboratorio 1 miceli ivan\tipo.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"tipo.h"
+
+1652484925 c:\users\ivan\desktop\parcial primer laboratorio 1\primer parcial laboratorio 1 miceli ivan\tipo.h
+
+1652485382 source:c:\users\ivan\desktop\parcial primer laboratorio 1\primer parcial laboratorio 1 miceli ivan\color.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"color.h"
+
+1652485296 c:\users\ivan\desktop\parcial primer laboratorio 1\primer parcial laboratorio 1 miceli ivan\color.h
+
+1652486141 source:c:\users\ivan\desktop\parcial primer laboratorio 1\primer parcial laboratorio 1 miceli ivan\servicio.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"servicio.h"
+
+1652486006 c:\users\ivan\desktop\parcial primer laboratorio 1\primer parcial laboratorio 1 miceli ivan\servicio.h
+
