@@ -1,0 +1,72 @@
+# depslib dependency file v1.0
+1653088488 source:c:\users\ivan\desktop\parcial primer laboratorio 1\primer parcial laboratorio 1 miceli ivan\mascotas.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"mascotas.h"
+
+1653087786 c:\users\ivan\desktop\parcial primer laboratorio 1\primer parcial laboratorio 1 miceli ivan\mascotas.h
+	"tipo.h"
+	"color.h"
+	"cliente.h"
+
+1653088923 source:c:\users\ivan\desktop\parcial primer laboratorio 1\primer parcial laboratorio 1 miceli ivan\main.c
+	<stdio.h>
+	<stdlib.h>
+	"mascotas.h"
+	"fecha.h"
+	"tipo.h"
+	"color.h"
+	"servicio.h"
+	"trabajo.h"
+	"cliente.h"
+
+1652480505 c:\users\ivan\desktop\parcial primer laboratorio 1\primer parcial laboratorio 1 miceli ivan\fecha.h
+
+1652480552 source:c:\users\ivan\desktop\parcial primer laboratorio 1\primer parcial laboratorio 1 miceli ivan\fecha.c
+	"fecha.h"
+
+1652485136 source:c:\users\ivan\desktop\parcial primer laboratorio 1\primer parcial laboratorio 1 miceli ivan\tipo.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"tipo.h"
+
+1652484925 c:\users\ivan\desktop\parcial primer laboratorio 1\primer parcial laboratorio 1 miceli ivan\tipo.h
+
+1653085656 source:c:\users\ivan\desktop\parcial primer laboratorio 1\primer parcial laboratorio 1 miceli ivan\color.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"color.h"
+
+1653085646 c:\users\ivan\desktop\parcial primer laboratorio 1\primer parcial laboratorio 1 miceli ivan\color.h
+
+1652900801 source:c:\users\ivan\desktop\parcial primer laboratorio 1\primer parcial laboratorio 1 miceli ivan\servicio.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"servicio.h"
+
+1652900798 c:\users\ivan\desktop\parcial primer laboratorio 1\primer parcial laboratorio 1 miceli ivan\servicio.h
+
+1652901687 source:c:\users\ivan\desktop\parcial primer laboratorio 1\primer parcial laboratorio 1 miceli ivan\trabajo.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"trabajo.h"
+
+1652901698 c:\users\ivan\desktop\parcial primer laboratorio 1\primer parcial laboratorio 1 miceli ivan\trabajo.h
+	"fecha.h"
+	"mascotas.h"
+	"servicio.h"
+
+1653088665 source:c:\users\ivan\desktop\parcial primer laboratorio 1\primer parcial laboratorio 1 miceli ivan\cliente.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"cliente.h"
+
+1653088652 c:\users\ivan\desktop\parcial primer laboratorio 1\primer parcial laboratorio 1 miceli ivan\cliente.h
+
